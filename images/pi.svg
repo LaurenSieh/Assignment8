@@ -1,0 +1,8 @@
+<svg id="pi" xmlns="http://www.w3.org/2000/svg" width="722" height="50" viewBox="0 0 722 50">
+  <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(0 40)" fill="#757272" stroke="#707070" stroke-width="1">
+    <rect width="722" height="10" stroke="none"/>
+    <rect x="0.5" y="0.5" width="721" height="9" fill="none"/>
+  </g>
+  <rect id="Rectangle_24" data-name="Rectangle 24" width="498" height="10" transform="translate(0 40)" fill="#687bad"/>
+  <text id="Loading" transform="translate(332 30)" fill="#9a9191" font-size="30" font-family="Verdana"><tspan x="0" y="0">Loading</tspan></text>
+</svg>

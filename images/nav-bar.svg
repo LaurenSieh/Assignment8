@@ -1,0 +1,10 @@
+<svg id="nav-bar" xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72">
+  <g id="Rectangle_16" data-name="Rectangle 16" fill="#040101" stroke="#707070" stroke-width="1">
+    <rect width="640" height="72" stroke="none"/>
+    <rect x="0.5" y="0.5" width="639" height="71" fill="none"/>
+  </g>
+  <text id="Home" transform="translate(263 43)" fill="#e92929" font-size="25" font-family="Verdana"><tspan x="0" y="0">Home</tspan></text>
+  <text id="About" transform="translate(398 43)" fill="#e92929" font-size="25" font-family="Verdana"><tspan x="0" y="0">About</tspan></text>
+  <text id="Staff" transform="translate(536 43)" fill="#e92929" font-size="25" font-family="Verdana"><tspan x="0" y="0">Staff</tspan></text>
+  <text id="Company" transform="translate(51 42)" fill="#e92929" font-size="30" font-family="Verdana"><tspan x="0" y="0">Company</tspan></text>
+</svg>

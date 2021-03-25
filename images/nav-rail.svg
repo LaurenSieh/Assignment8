@@ -1,0 +1,11 @@
+<svg id="nav-rail" xmlns="http://www.w3.org/2000/svg" width="152" height="232" viewBox="0 0 152 232">
+  <g id="Rectangle_17" data-name="Rectangle 17" fill="#060505" stroke="#707070" stroke-width="1">
+    <rect width="152" height="232" stroke="none"/>
+    <rect x="0.5" y="0.5" width="151" height="231" fill="none"/>
+  </g>
+  <text id="Home" transform="translate(16 36)" fill="#fff0f0" font-size="20" font-family="Verdana"><tspan x="0" y="0">Home</tspan></text>
+  <text id="Explore" transform="translate(16 76)" fill="#fff0f0" font-size="20" font-family="Verdana"><tspan x="0" y="0">Explore</tspan></text>
+  <text id="Messages" transform="translate(16 156)" fill="#fff0f0" font-size="20" font-family="Verdana"><tspan x="0" y="0">Messages</tspan></text>
+  <text id="Post" transform="translate(16 196)" fill="#fff0f0" font-size="20" font-family="Verdana"><tspan x="0" y="0">Post</tspan></text>
+  <text id="Notifications_" data-name="Notifications " transform="translate(16 116)" fill="#fff0f0" font-size="20" font-family="Verdana"><tspan x="0" y="0">Notifications </tspan></text>
+</svg>

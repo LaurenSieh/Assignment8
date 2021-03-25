@@ -1,0 +1,109 @@
+: root {
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+    box-sizing: inherit;
+    margin: 0;
+}
+
+.button{
+    width: 200px;
+    height: 75px;
+    background-image: url('images/button_on.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.button:hover {
+    background-image: url('images/button_off.svg');
+}
+
+.floating-button{
+    width: 75px;
+    height: 75px;
+    background-image: url('images/floating_button.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.copyright{
+    width: 150px;
+    height: 48px;
+    background-image: url('images/copyright.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.cta{
+    width: 100px;
+    height: 35px;
+    background-image: url('images/cta.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.accordion{
+    width: 200px;
+    height: 120px;
+    background-image: url('images/accordion.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+.nav-bar{
+    width: 350px;
+    height: 50px;
+    background-image: url('images/nav-bar.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.nav-rail{
+    width: 90px;
+    height: 135px;
+    background-image: url('images/nav-rail.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.slider{
+    width: 200px;
+    height: 35px;
+    background-image: url('images/Slider.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.text-field{
+    width: 300px;
+    height: 150px;
+    background-image: url('images/text-field.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.pi{
+    width: 200px;
+    height: 35px;
+    background-image: url('images/pi.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.pop-up{
+    width: 300px;
+    height: 140px;
+    background-image: url('images/pop-up.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}
+
+.sec-nav{
+    width: 400px;
+    height: 110px;
+    background-image: url('images/sec-nav.svg');
+    background-size: 95%;
+    background-repeat: no-repeat;
+}

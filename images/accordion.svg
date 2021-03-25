@@ -1,0 +1,57 @@
+<svg id="accordion" xmlns="http://www.w3.org/2000/svg" width="280" height="176" viewBox="0 0 280 176">
+  <g id="Component_7_1" data-name="Component 7 – 1">
+    <g id="Rectangle_7" data-name="Rectangle 7" fill="#06063c" stroke="#707070" stroke-width="1">
+      <rect width="280" height="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="47" fill="none"/>
+    </g>
+    <text id="History_Book" data-name="History Book" transform="translate(16 8)" fill="#fff0f0" font-size="25" font-family="Verdana"><tspan x="0" y="25">History Book</tspan></text>
+    <g id="Polygon_1" data-name="Polygon 1" transform="matrix(-1, -0.017, 0.017, -1, 263.997, 32)" fill="#fff">
+      <path d="M 14.79966449737549 7.56979513168335 L 1.199699759483337 7.56979513168335 L 7.999681949615479 0.7102169990539551 L 14.79966449737549 7.56979513168335 Z" stroke="none"/>
+      <path d="M 7.999681949615479 1.420429229736328 L 2.399407386779785 7.069785118103027 L 13.59995651245117 7.069785118103027 L 7.999681949615479 1.420429229736328 M 7.999681949615479 -4.76837158203125e-06 L 15.99936199188232 8.069785118103027 L 1.9073486328125e-06 8.069785118103027 L 7.999681949615479 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+  <g id="Component_11_1" data-name="Component 11 – 1" transform="translate(0 144)">
+    <g id="Rectangle_13" data-name="Rectangle 13" fill="#4a4a52" stroke="#707070" stroke-width="1">
+      <rect width="280" height="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="31" fill="none"/>
+    </g>
+    <text id="Chapter_Four" data-name="Chapter Four" transform="translate(16 8)" fill="#fff0f0" font-size="15" font-family="Verdana"><tspan x="0" y="15">Chapter Four</tspan></text>
+    <g id="Polygon_2" data-name="Polygon 2" transform="matrix(-1, -0.017, 0.017, -1, 263.997, 24)" fill="#fff">
+      <path d="M 14.79966449737549 7.56979513168335 L 1.199699759483337 7.56979513168335 L 7.999681949615479 0.7102169990539551 L 14.79966449737549 7.56979513168335 Z" stroke="none"/>
+      <path d="M 7.999681949615479 1.420429229736328 L 2.399407386779785 7.069785118103027 L 13.59995651245117 7.069785118103027 L 7.999681949615479 1.420429229736328 M 7.999681949615479 -4.76837158203125e-06 L 15.99936199188232 8.069785118103027 L 1.9073486328125e-06 8.069785118103027 L 7.999681949615479 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+  <g id="Component_10_1" data-name="Component 10 – 1" transform="translate(0 112)">
+    <g id="Rectangle_14" data-name="Rectangle 14" fill="#4a4a52" stroke="#707070" stroke-width="1">
+      <rect width="280" height="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="31" fill="none"/>
+    </g>
+    <text id="Chapter_Three" data-name="Chapter Three" transform="translate(16 6)" fill="#fff0f0" font-size="15" font-family="Verdana"><tspan x="0" y="15">Chapter Three</tspan></text>
+    <g id="Polygon_3" data-name="Polygon 3" transform="matrix(-1, -0.017, 0.017, -1, 263.859, 24.348)" fill="#fff">
+      <path d="M 14.79966449737549 7.56979513168335 L 1.199699759483337 7.56979513168335 L 7.999681949615479 0.7102169990539551 L 14.79966449737549 7.56979513168335 Z" stroke="none"/>
+      <path d="M 7.999681949615479 1.420429229736328 L 2.399407386779785 7.069785118103027 L 13.59995651245117 7.069785118103027 L 7.999681949615479 1.420429229736328 M 7.999681949615479 -4.76837158203125e-06 L 15.99936199188232 8.069785118103027 L 1.9073486328125e-06 8.069785118103027 L 7.999681949615479 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+  <g id="Component_9_1" data-name="Component 9 – 1" transform="translate(0 80)">
+    <g id="Rectangle_15" data-name="Rectangle 15" fill="#4a4a52" stroke="#707070" stroke-width="1">
+      <rect width="280" height="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="31" fill="none"/>
+    </g>
+    <text id="Chapter_Two" data-name="Chapter Two" transform="translate(16 8)" fill="#fff0f0" font-size="15" font-family="Verdana"><tspan x="0" y="15">Chapter Two</tspan></text>
+    <g id="Polygon_4" data-name="Polygon 4" transform="matrix(-1, -0.017, 0.017, -1, 263.859, 24)" fill="#fff">
+      <path d="M 14.79966449737549 7.56979513168335 L 1.199699759483337 7.56979513168335 L 7.999681949615479 0.7102169990539551 L 14.79966449737549 7.56979513168335 Z" stroke="none"/>
+      <path d="M 7.999681949615479 1.420429229736328 L 2.399407386779785 7.069785118103027 L 13.59995651245117 7.069785118103027 L 7.999681949615479 1.420429229736328 M 7.999681949615479 -4.76837158203125e-06 L 15.99936199188232 8.069785118103027 L 1.9073486328125e-06 8.069785118103027 L 7.999681949615479 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+  <g id="Component_8_1" data-name="Component 8 – 1" transform="translate(0 48)">
+    <g id="Rectangle_8" data-name="Rectangle 8" fill="#4a4a52" stroke="#707070" stroke-width="1">
+      <rect width="280" height="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="31" fill="none"/>
+    </g>
+    <text id="Chapter_One" data-name="Chapter One" transform="translate(16 8)" fill="#fff0f0" font-size="15" font-family="Verdana"><tspan x="0" y="15">Chapter One</tspan></text>
+    <g id="Polygon_5" data-name="Polygon 5" transform="matrix(-1, -0.017, 0.017, -1, 263.997, 24)" fill="#fff">
+      <path d="M 14.79966449737549 7.56979513168335 L 1.199699759483337 7.56979513168335 L 7.999681949615479 0.7102169990539551 L 14.79966449737549 7.56979513168335 Z" stroke="none"/>
+      <path d="M 7.999681949615479 1.420429229736328 L 2.399407386779785 7.069785118103027 L 13.59995651245117 7.069785118103027 L 7.999681949615479 1.420429229736328 M 7.999681949615479 -4.76837158203125e-06 L 15.99936199188232 8.069785118103027 L 1.9073486328125e-06 8.069785118103027 L 7.999681949615479 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+</svg>

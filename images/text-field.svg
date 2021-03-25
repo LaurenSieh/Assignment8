@@ -1,0 +1,18 @@
+<svg id="text-field" xmlns="http://www.w3.org/2000/svg" width="368" height="168" viewBox="0 0 368 168">
+  <g id="Rectangle_20" data-name="Rectangle 20" fill="#090909" stroke="#707070" stroke-width="1">
+    <rect width="368" height="168" stroke="none"/>
+    <rect x="0.5" y="0.5" width="367" height="167" fill="none"/>
+  </g>
+  <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(8 24)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="352" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="351" height="23" fill="none"/>
+  </g>
+  <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(8 72)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="352" height="88" stroke="none"/>
+    <rect x="0.5" y="0.5" width="351" height="87" fill="none"/>
+  </g>
+  <text id="Title" transform="translate(8 14)" fill="#fff0f0" font-size="10" font-family="Verdana"><tspan x="0" y="0">Title</tspan></text>
+  <text id="Content" transform="translate(8 62)" fill="#fff0f0" font-size="10" font-family="Verdana"><tspan x="0" y="0">Content</tspan></text>
+  <text id="Input_Text" data-name="Input Text" transform="translate(16 39)" fill="#544f4f" font-size="7" font-family="Verdana" opacity="0.7"><tspan x="0" y="0">Input Text</tspan></text>
+  <text id="Input_Text-2" data-name="Input Text" transform="translate(16 87)" fill="#9a9191" font-size="7" font-family="Verdana"><tspan x="0" y="0">Input Text</tspan></text>
+</svg>
